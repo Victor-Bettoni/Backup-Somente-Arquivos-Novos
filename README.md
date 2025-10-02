@@ -18,7 +18,7 @@ Script automatizado de backup que utiliza ROBOCOPY para sincronização intelige
    - Clique com botão direito → "Executar como administrador"
 
 2. **Configurar Pastas**
-   ============================================
+============================================
 SELECIONE A PASTA DE ORIGEM
 ============================================
 Cole o caminho da pasta: [INSERIR CAMINHO ORIGEM]
